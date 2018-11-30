@@ -2,12 +2,13 @@ from rest_framework.generics import ListAPIView, CreateAPIView
 from rest_framework_extensions.cache.mixins import CacheResponseMixin
 from areas.models import Area
 from areas.serializers import AreasSerializer, AddressSerializer
-
-
-# 查询显示省信息
 from users.models import Address
 
 
+class a():
+    pass
+
+# 查询显示省信息
 class AreasView(CacheResponseMixin, ListAPIView):
     """
     请求方式: GET

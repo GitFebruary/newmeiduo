@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="008fb5b8-275e-4db6-a27b-034d3957c0cf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/views.py" afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/oauth/models.py" afterPath="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/oauth/models.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="e#0#62#0" expanded="true" />
               </folding>
@@ -72,11 +74,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/oauth/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -106,8 +108,8 @@
         <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/payments/keys/app_private_key.pem" />
         <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/settings/dev.py" />
         <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/payments/models.py" />
-        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/views.py" />
         <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/oauth/models.py" />
+        <option value="$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/views.py" />
       </list>
     </option>
   </component>
@@ -453,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543574305013</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="二次修改项目">
+      <created>1543576754208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543576754208</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -487,9 +496,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="二次修改项目" />
     <MESSAGE value="三次修改项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="三次修改项目" />
+    <MESSAGE value="二次修改项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="二次修改项目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -604,22 +613,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/views.py">
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/oauth/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#0#62#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/oauth/models.py">
+    <entry file="file://$PROJECT_DIR$/meiduo_mall/meiduo_mall/apps/areas/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#0#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
