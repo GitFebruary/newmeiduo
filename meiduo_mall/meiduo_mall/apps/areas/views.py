@@ -7,6 +7,8 @@ from areas.serializers import AreasSerializer, AddressSerializer
 # 查询显示省信息
 from users.models import Address
 
+class a():
+    pass
 
 class AreasView(CacheResponseMixin, ListAPIView):
     """
