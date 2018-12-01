@@ -106,8 +106,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'HOST': '127.0.0.1',  # 数据库主机
         'PORT': 3306,  # 数据库端口
-        'USER': 'zhanghao',  # 数据库用户名
-        'PASSWORD': 'mima',  # 数据库用户密码
+        'USER': 'root',  # 数据库用户名
+        'PASSWORD': 'mysql',  # 数据库用户密码
         'NAME': 'meiduo_mall'  # 数据库名字
     }
 }
@@ -344,7 +344,7 @@ HAYSTACK_CONNECTIONS = {
 HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'
 
 # 支付宝
-ALIPAY_APPID = "2016092300580667"
+ALIPAY_APPID = "2016092300580545"
 ALIPAY_URL = "https://openapi.alipaydev.com/gateway.do?"
 ALIPAY_DEBUG = True
 
